@@ -36,6 +36,8 @@ ML_example_pb2_grpc.py — contains server and client classes
 •	ML_example_pb2_grpc.PredictServicer will be used by the server
 •	ML_example_pb2_grpc.PredictStub the client will use it
 
+I have also included a tutorial on this as a docx file.  
+
 
 
 
